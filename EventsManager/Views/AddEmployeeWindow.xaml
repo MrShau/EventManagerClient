@@ -1,0 +1,53 @@
+﻿<Window x:Class="EventsManager.Views.AddEmployeeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:EventsManager.Views"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Добавить сотрудника" Height="360" Width="360" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBox 
+            Style="{DynamicResource MaterialDesignFloatingHintTextBox}"
+            x:Name="TextBoxLogin"
+            materialDesign:HintAssist.Hint="Логин"
+            materialDesign:HintAssist.FloatingOffset="0, -20"
+            BorderBrush="#c5c8cc"
+            Margin="0, 10"
+            />
+            <TextBox 
+            Style="{DynamicResource MaterialDesignFloatingHintTextBox}"
+            x:Name="TextBoxFirstName"
+            materialDesign:HintAssist.Hint="Имя"
+            materialDesign:HintAssist.FloatingOffset="0, -20"
+            BorderBrush="#c5c8cc"
+            Margin="0, 10"
+            />
+            <TextBox 
+Style="{DynamicResource MaterialDesignFloatingHintTextBox}"
+x:Name="TextBoxLastName"
+materialDesign:HintAssist.Hint="Фамилия"
+materialDesign:HintAssist.FloatingOffset="0, -20"
+BorderBrush="#c5c8cc"
+Margin="0, 10"
+/>
+            <TextBox 
+Style="{DynamicResource MaterialDesignFloatingHintTextBox}"
+x:Name="TextBoxPassword"
+materialDesign:HintAssist.Hint="Пароль"
+materialDesign:HintAssist.FloatingOffset="0, -20"
+BorderBrush="#c5c8cc"
+Margin="0, 10"
+/>
+            <ComboBox SelectedIndex="2" Height="42" x:Name="ComboBoxRole">
+                <Label Content="ADMIN" />
+                <Label Content="MODER" />
+                <Label Content="USER" />
+            </ComboBox>
+            <Button Margin="0, 15" Content="Добавить" Foreground="WhiteSmoke" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

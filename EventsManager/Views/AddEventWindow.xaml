@@ -1,0 +1,82 @@
+﻿<Window x:Class="EventsManager.Views.AddEventWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:models="clr-namespace:EventsManager.Models"
+        xmlns:local="clr-namespace:EventsManager.Views"
+        mc:Ignorable="d"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        WindowStartupLocation="CenterScreen"
+        Title="Добавить мероприятие" Height="460" Width="360" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBox 
+                Style="{DynamicResource MaterialDesignFloatingHintTextBox}"
+                x:Name="TextBoxTitle"
+                materialDesign:HintAssist.Hint="Заголовок"
+                materialDesign:HintAssist.FloatingOffset="0, -20"
+                BorderBrush="#c5c8cc"
+                Margin="0, 10"
+                />
+
+            <TextBox 
+    Style="{DynamicResource MaterialDesignFloatingHintTextBox}"
+    materialDesign:HintAssist.Hint="Описание"
+                x:Name="TextBoxDescription"
+                Padding="0, 5"
+                TextWrapping="Wrap"
+                AcceptsReturn="True"
+                Height="120"
+                VerticalScrollBarVisibility="Auto"
+                VerticalContentAlignment="Top"
+    BorderBrush="#c5c8cc"
+    Margin="0, 10"
+    />
+
+            <DatePicker
+                x:Name="DatePickerDate"
+    Style="{DynamicResource MaterialDesignFloatingHintDatePicker}"
+    materialDesign:HintAssist.Hint="Дата"
+    materialDesign:HintAssist.FloatingOffset="0, -20"
+    SelectedDate="{x:Static sys:DateTime.Now}"
+                DisplayDateStart="{x:Static sys:DateTime.Now}"
+    BorderBrush="#c5c8cc"
+    Margin="0, 10"
+                FirstDayOfWeek="Monday"
+    SelectedDateFormat="Short"
+                />
+            <materialDesign:TimePicker
+                x:Name="TimePickerTime"
+                SelectedTime="12:00"
+                Is24Hours="True"
+Style="{DynamicResource MaterialDesignFloatingHintTimePicker}"
+materialDesign:HintAssist.Hint="Время"
+materialDesign:HintAssist.FloatingOffset="0, -20"
+BorderBrush="#c5c8cc"
+Margin="0, 10"
+/>
+
+            <ComboBox 
+                x:Name="ComboBoxType"
+    Style="{DynamicResource MaterialDesignFloatingHintComboBox}"
+    materialDesign:HintAssist.Hint="Тип"
+    materialDesign:HintAssist.FloatingOffset="0, -20"
+    BorderBrush="#c5c8cc"
+                SelectedIndex="0"
+    Margin="0, 10"
+                ItemsSource="{Binding }"
+    >
+                <Label Content="Конференция"/>
+                <Label Content="Семинар" />
+                <Label Content="Трейнинг" />
+                <Label Content="Корпоратив" />
+            </ComboBox>
+
+            <Button Margin="0, 10" x:Name="ButtonAdd" Click="ButtonAdd_Click">
+                <TextBlock Text="Добавить" Foreground="White"/>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>

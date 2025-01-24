@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\pages\\employeespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\pages\\employeespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\api\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\api\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\api\\eventapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\api\\eventapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\viewmodels\\employeespageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\viewmodels\\employeespageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\viewmodels\\eventspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\viewmodels\\eventspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\pages\\employeespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\pages\\employeespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\pages\\calendarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\pages\\calendarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\pages\\calendarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\pages\\calendarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\addemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\addemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\addeventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\addeventwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\pages\\eventspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\pages\\eventspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\pages\\eventspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\pages\\eventspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\addeventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\addeventwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\addemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\addemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\views\\signinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\views\\signinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\session\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\session\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nagoe\\AppData\\Local\\Temp\\.vsdbgsrc\\af1e3d0bf625cb2acae84f795e44577a725ca0c0b3bc094a4c3e974f4bf6b276\\Window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|c:\\users\\nagoe\\source\\repos\\eventsmanager\\eventsmanager\\api\\iapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5540CE-FBC4-48B6-B4E1-269868C4C1E3}|EventsManager\\EventsManager.csproj|solutionrelative:eventsmanager\\api\\iapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangePasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\ChangePasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\ChangePasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\ChangePasswordWindow.xaml.cs",
+              "RelativeToolTip": "EventsManager\\Views\\ChangePasswordWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:44:43.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChangePasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\ChangePasswordWindow.xaml",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\ChangePasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\ChangePasswordWindow.xaml",
+              "RelativeToolTip": "EventsManager\\Views\\ChangePasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T17:43:09.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddEmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\AddEmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\AddEmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\AddEmployeeWindow.xaml.cs",
+              "RelativeToolTip": "EventsManager\\Views\\AddEmployeeWindow.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAIwEoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:40:57.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\AddEmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\AddEmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\AddEmployeeWindow.xaml",
+              "RelativeToolTip": "EventsManager\\Views\\AddEmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T09:51:02.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalendarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\CalendarPage.xaml.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\Pages\\CalendarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\CalendarPage.xaml.cs",
+              "RelativeToolTip": "EventsManager\\Views\\Pages\\CalendarPage.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T21:08:24.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\EmployeesPage.xaml.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\Pages\\EmployeesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\EmployeesPage.xaml.cs",
+              "RelativeToolTip": "EventsManager\\Views\\Pages\\EmployeesPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wDwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:05:59.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\ViewModels\\EmployeesPageViewModel.cs",
+              "RelativeDocumentMoniker": "EventsManager\\ViewModels\\EmployeesPageViewModel.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\ViewModels\\EmployeesPageViewModel.cs",
+              "RelativeToolTip": "EventsManager\\ViewModels\\EmployeesPageViewModel.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAA9wFMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:52:14.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\EmployeesPage.xaml",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\Pages\\EmployeesPage.xaml",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\EmployeesPage.xaml",
+              "RelativeToolTip": "EventsManager\\Views\\Pages\\EmployeesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T13:40:45.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "EventsManager\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:09:52.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddEventWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\AddEventWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\AddEventWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\AddEventWindow.xaml.cs",
+              "RelativeToolTip": "EventsManager\\Views\\AddEventWindow.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwDUAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:02:47.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventApi.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\API\\EventApi.cs",
+              "RelativeDocumentMoniker": "EventsManager\\API\\EventApi.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\API\\EventApi.cs",
+              "RelativeToolTip": "EventsManager\\API\\EventApi.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAYwKIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:40:37.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EventsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\EventsPage.xaml.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\Pages\\EventsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\EventsPage.xaml.cs",
+              "RelativeToolTip": "EventsManager\\Views\\Pages\\EventsPage.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwFQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:19:18.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEventWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\AddEventWindow.xaml",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\AddEventWindow.xaml",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\AddEventWindow.xaml",
+              "RelativeToolTip": "EventsManager\\Views\\AddEventWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-22T20:15:24.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventsPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\ViewModels\\EventsPageViewModel.cs",
+              "RelativeDocumentMoniker": "EventsManager\\ViewModels\\EventsPageViewModel.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\ViewModels\\EventsPageViewModel.cs",
+              "RelativeToolTip": "EventsManager\\ViewModels\\EventsPageViewModel.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAArwFIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:58:50.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Models\\UserModel.cs",
+              "RelativeToolTip": "EventsManager\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:57:36.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Models\\EventModel.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Models\\EventModel.cs",
+              "RelativeToolTip": "EventsManager\\Models\\EventModel.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:56:16.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\EventsPage.xaml",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\Pages\\EventsPage.xaml",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\EventsPage.xaml",
+              "RelativeToolTip": "EventsManager\\Views\\Pages\\EventsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-22T19:32:51.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalendarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\CalendarPage.xaml",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\Pages\\CalendarPage.xaml",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\Pages\\CalendarPage.xaml",
+              "RelativeToolTip": "EventsManager\\Views\\Pages\\CalendarPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T21:55:08.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IApi.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\API\\IApi.cs",
+              "RelativeDocumentMoniker": "EventsManager\\API\\IApi.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\API\\IApi.cs",
+              "RelativeToolTip": "EventsManager\\API\\IApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:03:46.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\API\\UserApi.cs",
+              "RelativeDocumentMoniker": "EventsManager\\API\\UserApi.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\API\\UserApi.cs",
+              "RelativeToolTip": "EventsManager\\API\\UserApi.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAUwN8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:03:37.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consts.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Consts.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Consts.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Consts.cs",
+              "RelativeToolTip": "EventsManager\\Consts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:20:36.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignInWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\SignInWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\SignInWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\SignInWindow.xaml.cs",
+              "RelativeToolTip": "EventsManager\\Views\\SignInWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAtwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:15:24.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "EventsManager\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T15:26:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Session\\UserSession.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Session\\UserSession.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Session\\UserSession.cs",
+              "RelativeToolTip": "EventsManager\\Session\\UserSession.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:24:07.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignInWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\SignInWindow.xaml",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\SignInWindow.xaml",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\SignInWindow.xaml",
+              "RelativeToolTip": "EventsManager\\Views\\SignInWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T15:21:00.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\AppData\\Local\\Temp\\.vsdbgsrc\\af1e3d0bf625cb2acae84f795e44577a725ca0c0b3bc094a4c3e974f4bf6b276\\Window.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\af1e3d0bf625cb2acae84f795e44577a725ca0c0b3bc094a4c3e974f4bf6b276\\Window.cs",
+              "ToolTip": "C:\\Users\\nagoe\\AppData\\Local\\Temp\\.vsdbgsrc\\af1e3d0bf625cb2acae84f795e44577a725ca0c0b3bc094a4c3e974f4bf6b276\\Window.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\af1e3d0bf625cb2acae84f795e44577a725ca0c0b3bc094a4c3e974f4bf6b276\\Window.cs",
+              "ViewState": "AQIAAOsRAAAAAAAAAAArwPkRAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:09:15.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\App.xaml",
+              "RelativeDocumentMoniker": "EventsManager\\App.xaml",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\App.xaml",
+              "RelativeToolTip": "EventsManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T15:04:53.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EventsManager\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nagoe\\source\\repos\\EventsManager\\EventsManager\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EventsManager\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:00:27.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
